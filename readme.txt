@@ -1,0 +1,2 @@
+# A program I created to track horror movies that I've watched. It uses the psycopg2 library to connect to a local Postgres DB, and uses tkinter for the GUI. 
+# Basic idea and some base code taken from a udemy course I'm following to increase my knowledge of python - https://www.udemy.com/course/the-python-mega-course/
